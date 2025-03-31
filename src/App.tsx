@@ -3,7 +3,7 @@ import { useState } from "react";
 import ReactIcon from "./Components/ReactIcon/ReactIcon";
 import { createUseStyles } from "react-jss";
 import { ANIMATION_TIMING } from "./config";
-import EpicPage from "./Pages/EpicPage";
+import EpicPage from "./Pages/EpicPage/EpicPage";
 import { Navigate, Route, Routes } from "react-router";
 import TablePage from "./Pages/TablePage";
 import TabPanelPage from "./Pages/TabPanelPage";
